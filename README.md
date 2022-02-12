@@ -4,8 +4,8 @@
 --|--
 2022年2月|[件数集計](https://raw.githubusercontent.com/tanaka0079/stats/main/2022_2_num.csv), [件数内訳](https://raw.githubusercontent.com/tanaka0079/stats/main/2022_2_detail.csv)
 
-【全体(過去1時間)】
-![全体(過去1時間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_1h.png)
+【全体(過去6時間)】
+![全体(過去6時間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_6h.png)
 
 
 ## ネット情報
