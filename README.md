@@ -12,6 +12,8 @@
 
 ![全体(過去6時間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_6h.png)
 
+#### 過去24時間
+
 ![全体(過去24時間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_24h.png)
 
 
