@@ -16,6 +16,14 @@
 
 ![全体(過去24時間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_24h.png)
 
+#### 過去1週間
+
+![全体(過去1週間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_7day.png)
+
+#### 過去30日間
+
+![全体(過去30日間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_30day.png)
+
 
 ## ネット情報
 
