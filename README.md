@@ -1,11 +1,18 @@
-## 過去ログ・グラフ
+## 過去ログ
 
 期間|CSVファイルのリンク
 --|--
 2022年2月|[件数集計](https://raw.githubusercontent.com/tanaka0079/stats/main/2022_2_num.csv), [件数内訳](https://raw.githubusercontent.com/tanaka0079/stats/main/2022_2_detail.csv)
 
-【全体(過去6時間)】
+## グラフ
+
+※最新の発生日時から過去換算
+
+#### 過去6時間
+
 ![全体(過去6時間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_6h.png)
+
+![全体(過去24時間)](https://raw.githubusercontent.com/tanaka0079/stats/main/graph/all_latest_24h.png)
 
 
 ## ネット情報
